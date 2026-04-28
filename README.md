@@ -18,7 +18,7 @@ A complete **MERN Stack** e-commerce platform for browsing and purchasing gadget
 - **Backend**: Node.js, Express.js, MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **Deployment**: 
- **Live Link**: **[VPS (www.zamansgadget.com)](http://www.zamansgadget.com)**
+ **Live Link**: **https://zammansgadget.netlify.app/**
 
 
 ## Contact
